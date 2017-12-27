@@ -17,3 +17,18 @@ wget https://bit.ly/deep-learning-workbook-raw
 
 5. Once you're done building the final model, you can delete the cells containing instructions.
 
+### Deep Learning Workflow
+
+See the Jupyter notebook [deep-learning-workbook.ipynb](./deep-learning-workbook.ipynb) for the detailed step-by-step workflow for solving machine learning problems using Deep Learning. Following is a short summary of the workflow:
+
+1. Define the problem at hand and the data you will be training on; collect this data or annotate it with labels if need be.
+
+2. Choose how you will measure success on your problem. Which metrics will you be monitoring on your validation data?
+
+3. Determine your evaluation protocol: hold-out validation? K-fold validation? Which portion of the data should you use for validation?
+
+4. Develop a first model that does better than a basic baseline: a model that has "statistical power".
+
+5. Develop a model that overfits.
+
+6. Regularize your model and tune its hyperparameters, based on performance on the validation data.
