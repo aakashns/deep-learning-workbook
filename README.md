@@ -1,6 +1,6 @@
 # Deep Learning Workbook
 
-This Jupyter notebook [deep-learning-workbook.ipynb](./deep-learning-workbook.ipynb) outlines a universal blueprint that can be used to attack and solve any machine learning problem. It is based on the workflow described in the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python).
+The Jupyter notebook [deep-learning-workbook.ipynb](./deep-learning-workbook.ipynb) outlines a universal blueprint that can be used to attack and solve any machine learning problem. It is based on the workflow described in the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python).
 
 ### Usage Instructions
 
