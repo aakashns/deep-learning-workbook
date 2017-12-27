@@ -35,4 +35,4 @@ See the Jupyter notebook [deep-learning-workbook.ipynb](./deep-learning-workbook
 
 ## Credits
 
-The Jupyter notebook is based on the universal workflow for machine learning outlined in the book [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python). 
+The Jupyter notebook is based on the universal workflow for machine learning outlined in the book [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet, the author of [Keras](https://keras.io/). 
