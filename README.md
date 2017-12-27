@@ -32,3 +32,7 @@ See the Jupyter notebook [deep-learning-workbook.ipynb](./deep-learning-workbook
 5. Develop a model that overfits.
 
 6. Regularize your model and tune its hyperparameters, based on performance on the validation data.
+
+## Credits
+
+The Jupyter notebook is based on the universal workflow for machine learning outlined in the book [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python). 
